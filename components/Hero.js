@@ -149,7 +149,7 @@ function Hero() {
       {/* 右 */}
       <div
         className='col-span-4 relative bg-gradient-to-br h-[50rem] -z-20 from-green-400  to-yellow-500
-      max-md:relative max-md:bg-none'
+      max-md:relative max-md:bg-none max-md:h-auto'
       >
         {/* レート */}
         <motion.div
