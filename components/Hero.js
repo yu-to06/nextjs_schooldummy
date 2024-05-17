@@ -38,7 +38,7 @@ function Hero() {
 
         {/* キャッチコピー */}
         <div
-          className='relative flex mt-[4rem] bg-darkdarkGray rounded-full w-fit py-[1.2rem] px-[0.8rem] text-white text-center justify-start
+          className='relative flex mt-[1rem] bg-darkdarkGray rounded-full w-fit py-[1.2rem] px-[0.8rem] text-white text-center justify-start
         max-md:my-[1.5rem] max-md:text-sm max-md:self-center max-md:transform scale-75
         '
         >
